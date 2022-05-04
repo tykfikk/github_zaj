@@ -9,3 +9,6 @@ print("To znaczy, że urodziłxś się w",rok,"roku")
 
 
 print("To jest gałąź numer 1")
+
+
+print("A to gałąź nr 2 ;D")
